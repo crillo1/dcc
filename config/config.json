@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x49B76d4e8524252cCE9156ea6d5d7bab07c91C31",
+  "SCAN_LINK": "https://explorer.dogechain.dog/address/0x49B76d4e8524252cCE9156ea6d5d7bab07c91C31",
+  "NETWORK": {
+    "NAME": "Dogechain",
+    "SYMBOL": "WDOGE",
+    "ID": 2000
+  },
+  "NFT_NAME": "DC CHEETAHS",
+  "SYMBOL": "DCH",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Oasis",
+  "MARKETPLACE_LINK": "https://oasis-nft.dog/collection/0x49B76d4e8524252cCE9156ea6d5d7bab07c91C31",
+  "SHOW_BACKGROUND": true
+}
